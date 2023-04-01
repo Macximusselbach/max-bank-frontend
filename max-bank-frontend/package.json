@@ -1,8 +1,8 @@
 {
-  "name": "frontend",
+  "name": "max-bank-frontend",
   "version": "1.0.0",
-  "description": "Frontend básica para utilizar a aplicação MaxBank.",
-  "main": "index.js",
+  "description": "Frontend projeto  Max Bank",
+  "main": "app.js",
   "scripts": {
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,6 @@
     "axios": "^1.3.4",
     "cors": "^2.8.5",
     "express": "^4.18.2",
-    "nodemon": "^2.0.21"
+    "nodemon": "^2.0.22"
   }
 }

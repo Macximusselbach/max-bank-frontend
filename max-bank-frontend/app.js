@@ -1,7 +1,7 @@
 
 const express = require("express");
 
-const clientApi = require("./apis/clientApi");
+const clientApi = require("./src/apis/clientsApi");
 
 const cors = require("cors");
 

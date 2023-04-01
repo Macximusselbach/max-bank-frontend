@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: image("../assets/images/ilustracao.jpeg");
+}
+
+.s-border {
+    border: solid 3px;
+}
+
+.header {
+    height: 10vh;
+}
+
+.main {
+    height: 87vh;
+}
+
+.footer {
+    height: 2vh;
+}
+
+.nav-link:hover {
+    color: white;
+    border-bottom: 2px solid white;
+    transition: 0.5s;
+}
+
+.nav-item {
+    padding-right: 1em;
+}
+
+.title {
+    font-size: 4em;
+}
+
+.a {
+    background-color: brown;
+}
+
+.b {
+    background-color: orange;
+}
+
